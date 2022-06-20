@@ -1,0 +1,124 @@
+{
+    "autoTransferIndex": 1,
+    "image_name": "hupeipei_oppoa35_jinritoutiao_20211125_b46_141.jpg",
+    "objects": [
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 8373761,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 24,
+                "y": 24,
+                "width": 641,
+                "height": 83
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 8373761,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 24,
+                "y": 117,
+                "width": 659,
+                "height": 370
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "时间",
+                "templateId": "",
+                "pid": 12011,
+                "propertyColor": "#00FFFF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 8373761,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 251,
+                "y": 499,
+                "width": 87,
+                "height": 26
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "评论",
+                "templateId": "",
+                "pid": 12010,
+                "propertyColor": "#3CFF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 8373761,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 161,
+                "y": 499,
+                "width": 76,
+                "height": 26
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 8373761,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 25,
+                "y": 499,
+                "width": 121,
+                "height": 25
+            }
+        },
+        {
+            "region_attributes": {
+                "propertyName": "视频"
+            },
+            "shape_attributes": {
+                "name": "card",
+                "x": 0,
+                "y": 0,
+                "width": 709,
+                "height": 562
+            }
+        }
+    ],
+    "is_card_added": "true"
+}

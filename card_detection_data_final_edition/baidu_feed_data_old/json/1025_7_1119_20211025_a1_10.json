@@ -1,0 +1,355 @@
+{
+    "autoTransferIndex": 1,
+    "image_name": "1025_7_1119_20211025_a1_10.jpg",
+    "objects": [
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 22,
+                "y": 183.5714285714,
+                "width": 527,
+                "height": 68
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 378.1428571429,
+                "y": 261.1746031746,
+                "width": 174,
+                "height": 117
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 200.956959707,
+                "y": 260.8262407527,
+                "width": 173.40811965811977,
+                "height": 117
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 23.4761904762,
+                "y": 262.2857142857,
+                "width": 173,
+                "height": 116
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 23.3428571429,
+                "y": 386.6634920635,
+                "width": 73,
+                "height": 21
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "评论",
+                "templateId": "",
+                "pid": 12010,
+                "propertyColor": "#3CFF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 104.3428571429,
+                "y": 386.6634920635,
+                "width": 48,
+                "height": 21
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 22.4858294769,
+                "y": 447.2365968472,
+                "width": 507.99999999999994,
+                "height": 67.09942057314531
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 23.5384610559,
+                "y": 526.1839652682,
+                "width": 529.4061302287845,
+                "height": 296.99999999999994
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 22.7639097744,
+                "y": 833.0406850459,
+                "width": 125,
+                "height": 20
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "详细内容",
+                "templateId": "",
+                "pid": 12012,
+                "propertyColor": "#FF7B00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 157.7064279097,
+                "y": 833.0092002925,
+                "width": 76,
+                "height": 20.3851819132546
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 22.7639097744,
+                "y": 893.5406850459,
+                "width": 480,
+                "height": 66
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 379.2639097744,
+                "y": 971.5406850459,
+                "width": 174,
+                "height": 116
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 201.2639097744,
+                "y": 971.5406850459,
+                "width": 174,
+                "height": 116
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 23.7639097744,
+                "y": 971.0406850459,
+                "width": 174,
+                "height": 117
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 22.6769532527,
+                "y": 1097.9102502633,
+                "width": 82,
+                "height": 20
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "评论",
+                "templateId": "",
+                "pid": 12010,
+                "propertyColor": "#3CFF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7852489,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 113.6769532527,
+                "y": 1096.9102502633,
+                "width": 69,
+                "height": 20
+            }
+        }
+    ],
+    "image_attribute": {
+        "fileSize": "129.36 KB | ",
+        "fileType": "jpg",
+        "size": "576*1280"
+    },
+    "annotation_attribute": {
+        "task": "OCR",
+        "time": "2021-11-22 15:11:34",
+        "vendor": 10580,
+        "rotation": 0
+    },
+    "classification": "glossy",
+    "is_card_added": true
+}

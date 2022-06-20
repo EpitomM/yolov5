@@ -1,0 +1,328 @@
+{
+    "autoTransferIndex": 1,
+    "image_name": "abulajiangababaiki_oppoa32_jinritoutiao_20211115_b31_12.jpg",
+    "objects": [
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 32.5,
+                "y": 266.25,
+                "width": 656,
+                "height": 81
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 30.5,
+                "y": 367.25,
+                "width": 659,
+                "height": 371
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 30,
+                "y": 756.25,
+                "width": 124,
+                "height": 27
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "评论",
+                "templateId": "",
+                "pid": 12010,
+                "propertyColor": "#3CFF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 169,
+                "y": 757.25,
+                "width": 88,
+                "height": 24
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "时间",
+                "templateId": "",
+                "pid": 12011,
+                "propertyColor": "#00FFFF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 270,
+                "y": 755.25,
+                "width": 62,
+                "height": 26
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "标题",
+                "templateId": "",
+                "pid": 12007,
+                "propertyColor": "#00FFE5",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 32,
+                "y": 853.25,
+                "width": 427,
+                "height": 119
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "作者",
+                "templateId": "",
+                "pid": 12009,
+                "propertyColor": "#FF00C8",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 32,
+                "y": 994.25,
+                "width": 73,
+                "height": 25
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "评论",
+                "templateId": "",
+                "pid": 12010,
+                "propertyColor": "#3CFF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 120,
+                "y": 995.25,
+                "width": 88,
+                "height": 24
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "时间",
+                "templateId": "",
+                "pid": 12011,
+                "propertyColor": "#00FFFF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 222,
+                "y": 995.25,
+                "width": 63,
+                "height": 26
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图像",
+                "templateId": "",
+                "pid": 12008,
+                "propertyColor": "#FB00FF",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "name": "rect",
+                "x": 529,
+                "y": 846.25,
+                "width": 162,
+                "height": 161
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "无效",
+                "templateId": "",
+                "pid": 12016,
+                "propertyColor": "#FF0000",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "all_points_x": [
+                    -1,
+                    719
+                ],
+                "all_points_y": [
+                    1048,
+                    1050
+                ],
+                "name": "polyline"
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "图文",
+                "templateId": "",
+                "pid": 12017,
+                "propertyColor": "#FF0000",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "all_points_x": [
+                    -1,
+                    711
+                ],
+                "all_points_y": [
+                    812,
+                    812
+                ],
+                "name": "polyline"
+            }
+        },
+        {
+            "region_attributes": {
+                "transcription": "",
+                "propertyName": "视频",
+                "templateId": "",
+                "pid": 12014,
+                "propertyColor": "#55FF00",
+                "image_quality": ""
+            },
+            "process_attributes": {
+                "taskUnitIdForDraw": 7841315,
+                "processTypeForDraw": "ANNOTATION"
+            },
+            "shape_attributes": {
+                "all_points_x": [
+                    -1,
+                    724
+                ],
+                "all_points_y": [
+                    250,
+                    247
+                ],
+                "name": "polyline"
+            }
+        },
+        {
+            "region_attributes": {
+                "propertyName": "无效"
+            },
+            "shape_attributes": {
+                "name": "card",
+                "x": 4,
+                "y": 1053,
+                "width": 710,
+                "height": -246
+            }
+        },
+        {
+            "region_attributes": {
+                "propertyName": "图文"
+            },
+            "shape_attributes": {
+                "name": "card",
+                "x": 4,
+                "y": 817,
+                "width": 702,
+                "height": -572
+            }
+        }
+    ],
+    "image_attribute": {
+        "fileSize": "461.85 KB | ",
+        "fileType": "jpg",
+        "size": "720*1600"
+    },
+    "annotation_attribute": {
+        "task": "OCR",
+        "time": "2021-11-27 11:16:44",
+        "vendor": 10680,
+        "rotation": 0
+    },
+    "classification": "glossy",
+    "is_card_added": true
+}
